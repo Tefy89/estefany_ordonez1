@@ -8,15 +8,6 @@ function resta(a, b) {
 
 console.log("Ejercicio demostrativo");
 
-function suma(a, b) {
-  return a + b;
-}
-
-function resta(a, b) {
-  return a - b;
-}
-
-console.log("Ejercicio demostrativo");
 
 const http = require('http');
 
