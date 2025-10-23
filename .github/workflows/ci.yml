@@ -17,4 +17,5 @@ jobs:
 
       - run: npm install
 
-      - run: npm test
+      - name: Ejecutar tests
+        run: npx jest
